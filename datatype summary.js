@@ -50,6 +50,14 @@ console.log(typeof bigNumber);
 console.log(typeof outsideTemp);
 console.log(typeof anotherId);
 
+console.log(typeof Array);
+console.log(typeof Object);
+console.log(typeof Functions);
+
+
+
+
+
 
 
 
